@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Andrea Reina - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,7 +8,7 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [agr82@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** 631-645-4265
 
 ---
 
@@ -24,7 +24,7 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 
 - **[High School Name]**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: June 2022
 
 ---
 
