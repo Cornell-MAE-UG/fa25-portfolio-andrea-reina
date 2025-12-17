@@ -3,7 +3,7 @@ layout: project
 title: Small Wind Turbine Blade Design
 description: Aerodynamic design, fabrication, and wind tunnel testing of a small-scale turbine blade
 technologies: [MATLAB, Fusion 360, Wind Tunnel Testing, Additive Manufacturing]
-image: /assets/images/blade-cad.png
+image: /assets/images/turbine.png
 ---
 
 ## Project Overview
@@ -19,8 +19,8 @@ The blades were tested in a wind tunnel across wind speeds ranging from 2.9 to 5
 I contributed to the aerodynamic design and analysis of the blade, including airfoil selection, MATLAB-based blade element calculations, and interpretation of performance data. I also assisted with CAD modeling, experimental testing in the wind tunnel, and post-processing of experimental results to generate power curves and efficiency metrics.
 
 ## Figures
-![Blade CAD model]({{ "/assets/images/blade_design.png" | relative_url }})
+![Blade CAD model]({{ "/assets/images/blade_design.png" | relative_url }}){: style="width: 350px"}
 
-![Wind tunnel testing setup]({{ "/assets/images/blade_axial.jpg" | relative_url }})
+![Wind tunnel testing setup]({{ "/assets/images/assets/images/blade_axial.png" | relative_url }}){: style="width: 350px"}
 
-![Power curves from experimental testing]({{ "/assets/images/power_curves.png" | relative_url }})
+![Power curves from experimental testing]({{ "/assets/images/power_curves.png" | relative_url }}){: style="width: 350px"}
