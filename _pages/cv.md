@@ -20,16 +20,16 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.8/4.0 | Graduation: May 2026
 
-- **[High School Name]**  
+- **Sachem High School East**  
   *High School Diploma*  
   Graduation: June 2022
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
+- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS, PTC CREO  
 - **Programming:** Python, MATLAB  
 - **Tools:** 3D Printing, Laser Cutting  
 

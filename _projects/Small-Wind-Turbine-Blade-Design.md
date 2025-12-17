@@ -1,12 +1,12 @@
 ---
 layout: project
-title: Radio CAD Rendering
-description: Advanced CAD Project
-technologies: [Autodesk Fusion]
+title: Small Wind Turbine Blade Design
+description: Aerodynamic design and experimental testing of a small-scale wind turbine blade
+technologies: [Autodesk Fusion, MATLAB, Wind Tunnel Testing]
 image: /assets/images/radio-machine-cad.jpg
 ---
 
-For a class, we were asked to CAD a complex object. This design was...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. 
+As part of MAE 4272: Fluids and Heat Transfer Laboratory at Cornell University, our team designed, fabricated, and tested a small-scale wind turbine blade optimized to operate at a fixed rotational speed under realistic wind conditions. The goal of the project was to maximize power production while remaining within strict geometric, structural, and operational constraints imposed by the wind tunnel and testing hardware. The blade was limited to a maximum length of six inches and had to operate safely below prescribed torque and rotational speed limits. Performance was evaluated experimentally using wind tunnel testing, with an emphasis on understanding the trade-offs between aerodynamic efficiency, structural robustness, and manufacturability.
 
 Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
 
