@@ -21,6 +21,6 @@ I contributed to the aerodynamic design and analysis of the blade, including air
 ## Figures
 ![Blade CAD model]({{ "/assets/images/blade_design.png" | relative_url }}){: style="width: 350px"}
 
-![Blade CAD model]({{ "/assets/images/assets/images/blade-axial.png" | relative_url }}){: style="width: 350px"}
+![Blade CAD model]({{ "/assets/images/assets/images/axial_blade.png" | relative_url }}){: style="width: 350px"}
 
 ![Power curves from experimental testing]({{ "/assets/images/power_curves.png" | relative_url }}){: style="width: 350px"}
